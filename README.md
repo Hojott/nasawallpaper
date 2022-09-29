@@ -12,5 +12,4 @@ NAME=nasawallpaper
 
 FORMAT=png
 
-FOLDER=./
-
+DIR=./
