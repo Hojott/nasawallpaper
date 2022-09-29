@@ -9,6 +9,8 @@ You can get one easily from NASA Open APIs.
 You can optionally add the name, folder and the format for the image.
 
 NAME=nasawallpaper
+
 FORMAT=png
-FOLDER=sys.argv[0]
+
+FOLDER=./
 
