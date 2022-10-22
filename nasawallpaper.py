@@ -15,7 +15,7 @@ if NAME is None:
 
 DIR = os.getenv('NASA_DIR')
 if DIR is None:
-    DIR = str(os.path.dirname(os.path.realpath(__file__)))
+    DIR = str(os.path.dirname(os.path.realpath(__file__)))+"/"
 else:
     if DIR[-1] != '/':
         DIR = DIR+'/'
